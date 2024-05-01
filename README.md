@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me :
 I am a Jr Full Stack Developer currently residing in DFW, TX.
 - 💻 Currently contracted by Dev10 and learning industry best practices in frontend and backend development of web applications.
-- 📖 Favorite technologies studied so far: JUnit testing and Java Database Connectivity.
+- 📖 Favorite technologies studied so far: JUnit testing, Java Database Connectivity, and React.
 - ⚡ In my free time, I think about how I would refactor my projects and also about producing content on my journey into software development.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasongardnerit/)
 
